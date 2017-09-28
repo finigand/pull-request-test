@@ -2,3 +2,4 @@ this is an example
 
 some change
 git push
+git publish
